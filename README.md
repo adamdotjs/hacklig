@@ -1,4 +1,4 @@
-# Hack Font
+# Hacklig Font
 
 A fork of Hack with added ligatures from Fira Code. Processed through TTFAutoHint to provide better consistency on Windows machines.
 
