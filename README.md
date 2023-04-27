@@ -1,4 +1,4 @@
-# Hack Font
+# Hacklig Font
 
 A fork of Hack with added ligatures from Fira Code. Processed through TTFAutoHint to provide better consistency on Windows machines.
 
@@ -6,8 +6,8 @@ A fork of Hack with added ligatures from Fira Code. Processed through TTFAutoHin
 
 Credits:
 
-[https://github.com/source-foundry/Hack](Hack)
+[Hack](https://github.com/source-foundry/Hack)
 
-[https://github.com/ToxicFrog/Ligaturizer](Ligaturizer)
+[Ligaturizer](https://github.com/ToxicFrog/Ligaturizer)
 
-[https://freetype.org/ttfautohint/](TTFAutoHint)
+[TTFAutoHint](https://freetype.org/ttfautohint/)
